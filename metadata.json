@@ -1,0 +1,6 @@
+{
+  "name": "ReviewBot",
+  "description": "An AI-powered developer tool for instant code reviews, security analysis, bug detection, and code rewriting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
